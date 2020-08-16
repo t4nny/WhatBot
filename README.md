@@ -3,7 +3,7 @@
 
 ## This Python Script will help you send bulk msgs at once on, to single or multiple users.
 
-## Please Don't Use This For Any Spamming Purpose, This Script is Only For Educational Purpose. Use It On Your Own Ris
+## Please Don't Use This For Any Spamming Purpose, This Script is Only For Educational Purpose. Use It On Your Own Risk
 
 
 ## Getting Started - How To Use
